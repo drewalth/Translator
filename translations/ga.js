@@ -1,0 +1,1 @@
+export default {"hello":"Dia dhuit"}

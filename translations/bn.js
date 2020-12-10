@@ -1,0 +1,1 @@
+export default {"hello":"হ্যালো"}

@@ -7,7 +7,7 @@ const translate = require('translate')
 translate.engine = 'google';
 translate.key = token;
 
-const languages = ['es', 'fr', 'de', 'ja', 'ru', 'ar', 'zh', 'da', 'nl', 'fi', 'he', 'it', 'ko', 'no', 'pt', 'pl', 'sw', 'sv', 'th', 'tr', 'uk', 'vi', 'uz']
+const languages = ['af', 'sq', 'am', 'ar', 'hy', 'eu', 'be', 'bn', 'bs', 'bg', 'ca', 'co', 'hr', 'cs', 'da', 'nl', 'et', 'fi', 'fr', 'ka', 'de', 'el', 'he', 'hi', 'hu', 'is', 'id', 'ga', 'it', 'ja', 'ko', 'lo', 'lv', 'lt', 'ne', 'no', 'ps', 'fa', 'pl', 'pt', 'pa', 'ro', 'ru', 'sm', 'sr', 'sk', 'sl', 'es', 'sw', 'sv', 'tl', 'th', 'tr', 'uk', 'vi']
 
 const translator = async (terms, lang) => {
 
