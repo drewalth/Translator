@@ -1,1 +1,1 @@
-export default {"hello":"γεια"}
+export default {"account":"λογαριασμός","email":"ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ","hello":"γεια","login":"Σύνδεση","logout":"Αποσύνδεση","password":"Κωδικός πρόσβασης"}

@@ -1,1 +1,1 @@
-export default {"hello":"Helló"}
+export default {"account":"Számla","email":"Email","hello":"Helló","login":"Belépés","logout":"Kijelentkezés","password":"Jelszó"}

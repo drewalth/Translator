@@ -1,1 +1,1 @@
-export default {"hello":"ສະບາຍດີ"}
+export default {"account":"ບັນຊີ","email":"ອີເມວ","hello":"ສະບາຍດີ","login":"ເຂົ້າ​ສູ່​ລະ​ບົບ","logout":"ອອກ​ຈາກ​ລະ​ບົບ","password":"ລະຫັດຜ່ານ"}

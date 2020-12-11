@@ -1,1 +1,1 @@
-export default {"hello":"xin chào"}
+export default {"account":"Tài khoản","email":"E-mail","hello":"xin chào","login":"Đăng nhập","logout":"Đăng xuất","password":"Mật khẩu"}

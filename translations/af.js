@@ -1,1 +1,1 @@
-export default {"hello":"Hallo"}
+export default {"account":"Rekening","email":"E-pos","hello":"Hallo","login":"Teken aan","logout":"Teken uit","password":"Wagwoord"}

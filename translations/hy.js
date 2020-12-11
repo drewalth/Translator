@@ -1,1 +1,1 @@
-export default {"hello":"Բարեւ"}
+export default {"account":"Հաշիվ","email":"Էլ","hello":"Բարեւ","login":"Մուտք","logout":"Դուրս գալ","password":"Գաղտնաբառ"}

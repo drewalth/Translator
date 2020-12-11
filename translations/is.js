@@ -1,1 +1,1 @@
-export default {"hello":"Halló"}
+export default {"account":"Reikningur","email":"Tölvupóstur","hello":"Halló","login":"Skrá inn","logout":"Að skrá þig út","password":"Lykilorð"}

@@ -1,1 +1,1 @@
-export default {"hello":"Kamusta"}
+export default {"account":"Account","email":"Email","hello":"Kamusta","login":"Mag log in","logout":"Pag-logout","password":"Password"}

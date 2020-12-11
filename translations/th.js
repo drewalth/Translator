@@ -1,0 +1,1 @@
+export default {"account":"บัญชีผู้ใช้","email":"อีเมล์","hello":"สวัสดี","login":"เข้าสู่ระบบ","logout":"ออกจากระบบ","password":"รหัสผ่าน"}

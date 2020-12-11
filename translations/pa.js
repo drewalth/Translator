@@ -1,1 +1,1 @@
-export default {"hello":"ਸਤ ਸ੍ਰੀ ਅਕਾਲ"}
+export default {"account":"ਖਾਤਾ","email":"ਈ - ਮੇਲ","hello":"ਸਤ ਸ੍ਰੀ ਅਕਾਲ","login":"ਲਾਗਿਨ","logout":"ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ","password":"ਪਾਸਵਰਡ"}

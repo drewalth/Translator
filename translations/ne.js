@@ -1,1 +1,1 @@
-export default {"hello":"नमस्कार"}
+export default {"account":"खाता","email":"ईमेल","hello":"नमस्कार","login":"लग - इन","logout":"बाहिर निस्कनु","password":"पासवर्ड"}

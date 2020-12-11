@@ -1,3 +1,8 @@
 module.exports = {
-  hello: 'Hello'
+  account: 'Account',
+  email: 'Email',
+  hello: 'Hello',
+  login: 'Login',
+  logout: 'Logout',
+  password: 'Password'
 };

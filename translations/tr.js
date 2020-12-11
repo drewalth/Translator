@@ -1,1 +1,1 @@
-export default {"hello":"Merhaba"}
+export default {"account":"Hesap","email":"E-posta","hello":"Merhaba","login":"Oturum aç","logout":"Çıkış Yap","password":"Parola"}

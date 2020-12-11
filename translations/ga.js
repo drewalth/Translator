@@ -1,1 +1,1 @@
-export default {"hello":"Dia dhuit"}
+export default {"account":"Cuntas","email":"Ríomhphost","hello":"Dia dhuit","login":"Logáil isteach","logout":"Logáil Amach","password":"Pasfhocal"}

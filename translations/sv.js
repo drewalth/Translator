@@ -1,1 +1,1 @@
-export default {"hello":"Hallå"}
+export default {"account":"konto","email":"E-post","hello":"Hallå","login":"Logga in","logout":"Logga ut","password":"Lösenord"}

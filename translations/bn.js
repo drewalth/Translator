@@ -1,1 +1,1 @@
-export default {"hello":"হ্যালো"}
+export default {"account":"হিসাব","email":"ইমেল","hello":"হ্যালো","login":"প্রবেশ করুন","logout":"প্রস্থান","password":"পাসওয়ার্ড"}

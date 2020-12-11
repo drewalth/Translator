@@ -1,1 +1,1 @@
-export default {"hello":"добры дзень"}
+export default {"account":"Рахунак","email":"Электронная пошта","hello":"добры дзень","login":"Увайсці","logout":"Выхад","password":"Пароль"}

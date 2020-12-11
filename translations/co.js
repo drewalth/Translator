@@ -1,1 +1,1 @@
-export default {"hello":"Bonghjornu"}
+export default {"account":"Contu","email":"Email","hello":"Bonghjornu","login":"Cunnessione","logout":"Scunnettà si","password":"Codice"}
