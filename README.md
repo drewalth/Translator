@@ -2,7 +2,9 @@
 
 A simple language file generator intended to be used with [vue-i18n](https://kazupon.github.io/vue-i18n/), built with [Translate](https://www.npmjs.com/package/translate). Please note, this relies on Google Translate, the accuracy of the translations may not be the best. 
  
-First, you must get a Google Cloud Translation API Key. 
+First, you must get a Google Cloud Translation API Key, [this guide](https://translatepress.com/docs/automatic-translation/generate-google-api-key/) is a good place to start.
+
+Once you have your API key, copy the default env file and drop in your token.
 
 ```
 cp .env.default .env
